@@ -187,10 +187,7 @@ header{
 
 }
 
-.yout {
-    margin-left:155px;
-   padding-top: 30px;
-}
+
 /* footer */
 .footer {
     display:flex;
@@ -215,6 +212,10 @@ header{
     transition: 0.3s all linear;
 }
 /* post page articles */ 
+.yout {
+    margin-left:155px;
+   padding-top: 30px;
+}
 /**************************************************/
 /*post content */
 .post-header {
