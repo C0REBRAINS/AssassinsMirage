@@ -186,6 +186,11 @@ header{
     font-weight:500;
 
 }
+
+.yout {
+    margin-left:155px;
+   padding-top: 30px;
+}
 /* footer */
 .footer {
     display:flex;
